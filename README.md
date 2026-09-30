@@ -94,12 +94,10 @@ Python, Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib, Kaggle Hub, Joblib, Go
 ## Repository structure
 
 ```
-.
 ├── churn_prediction.ipynb
 ├── README.md
-└── requirements.txt
 ```
 
 ## Author
 
-<Your Name> | <LinkedIn URL> | <Email>
+Devadharshini S | linkedin.com/in/devadharshinis23 | devadharshinisenthil1@gmail.com
